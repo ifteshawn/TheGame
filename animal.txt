@@ -1,0 +1,11 @@
+6	 backbone?
+4	 hiss or not?
+2	 lives in soil?
+1	 Jellyfish
+3	 worm
+5	 snake
+8	 Scales?
+7	 bird
+10	 lives in water?
+9	 lizard
+11	 fish
